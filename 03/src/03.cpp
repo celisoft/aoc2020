@@ -27,8 +27,8 @@ int processPuzzle1(std::vector<std::string> pMapLines, int pRightStep, int pDown
     return treeCpt;
 }
 
-int processPuzzle2(std::vector<std::string> pMapLines) {
-    int treeCpt = processPuzzle1(pMapLines, 1, 1);
+long long processPuzzle2(std::vector<std::string> pMapLines) {
+    long long treeCpt = processPuzzle1(pMapLines, 1, 1);
     treeCpt *= processPuzzle1(pMapLines, 3, 1);
     treeCpt *= processPuzzle1(pMapLines, 5, 1);
     treeCpt *= processPuzzle1(pMapLines, 7, 1);
@@ -81,7 +81,7 @@ int main()
     inputStream.close();
 
     int puzzleRes1 = processPuzzle1(mapLines, 3, 1);
-    int puzzleRes2 = processPuzzle2(mapLines);
+    long long puzzleRes2 = processPuzzle2(mapLines);
 
     fmt::print("Puzzle 1 solution: {0}\n", puzzleRes1);
     fmt::print("Puzzle 2 solution: {0}", puzzleRes2);
