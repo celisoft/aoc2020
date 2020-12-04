@@ -13,3 +13,7 @@ Use the following command line to correctly include it :
 ## Day 3 - Toboggan Trajectory
 
 Puzzle 2 was so big that I have to use "long long" to get the result correctly ! Thank @chrsnjk for the tip :)
+
+## Day 4 - Passport Processing
+
+First time I use std::boyer_moore_searcher & std::regex with std::regex_search ! 
