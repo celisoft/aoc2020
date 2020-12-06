@@ -17,3 +17,7 @@ Puzzle 2 was so big that I have to use "long long" to get the result correctly !
 ## Day 4 - Passport Processing
 
 First time I use std::boyer_moore_searcher & std::regex with std::regex_search ! 
+
+## Day 5 - Binary Boarding
+
+Difficulties encountered with std::find, the basic while loop solution returned the right answer ;).
