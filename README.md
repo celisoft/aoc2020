@@ -23,3 +23,6 @@ First time I use std::boyer_moore_searcher & std::regex with std::regex_search !
 Difficulties encountered with std::find, the basic while loop solution returned the right answer ;).
 
 ## Day 6 - Custom Customs
+
+## Day 7 - Handy Haversacks
+
