@@ -26,3 +26,5 @@ Difficulties encountered with std::find, the basic while loop solution returned 
 
 ## Day 7 - Handy Haversacks
 
+Puzzle 2 skipped for the moment
+
