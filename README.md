@@ -28,3 +28,8 @@ Difficulties encountered with std::find, the basic while loop solution returned 
 
 Puzzle 2 skipped for the moment
 
+## Day 8 - Handheld Halting
+
+Puzzle 2 skipped for the moment (I'm late, supposed to be 13 today !)
+
+
