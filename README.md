@@ -32,4 +32,9 @@ Puzzle 2 skipped for the moment
 
 Puzzle 2 skipped for the moment (I'm late, supposed to be 13 today !)
 
+## Day 9 - Encoding Error
+
+Puzzle 2 skipped for the moment (still late !)
+
+
 
