@@ -36,5 +36,8 @@ Puzzle 2 skipped for the moment (I'm late, supposed to be 13 today !)
 
 Puzzle 2 skipped for the moment (still late !)
 
+## Day 10 - Adapter Array
+
+Puzzle 2 skipped for the moment (still late !)
 
 
