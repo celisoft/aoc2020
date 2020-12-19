@@ -40,4 +40,6 @@ Puzzle 2 skipped for the moment (still late !)
 
 Puzzle 2 skipped for the moment (still late !)
 
+## Day 11 - Seating System
 
+Puzzle 2 skipped for the moment (still late !)
